@@ -1,7 +1,7 @@
 # course
 
 
-java short links
+java short links (arrays manipulation)
 
 
 *Demo
